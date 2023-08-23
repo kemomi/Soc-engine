@@ -1,0 +1,4 @@
+# Soc-engine
+Social engineering is a method of using psychology, interpersonal communication, and social interaction techniques to deceive, deceive, or manipulate individuals to obtain information, obtain secrets, or engage in fraud.
+
+Social engineering is a method of using psychology, interpersonal communication, and social interaction techniques to deceive, deceive, or manipulate individuals to obtain information, obtain secrets, or engage in fraud. There is a saying that social engineering is a means of attacking human psychological loopholes. Some situations we may encounter, such as unfamiliar phone calls claiming that we have won the lottery and need to verify information, or pretending to be family and friends online to lure us to click on malicious links, are likely fraudsters using social engineering to deceive us into leaking sensitive information or transferring funds. Be careful and take precautions.
